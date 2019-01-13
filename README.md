@@ -7,6 +7,7 @@ This is a collection of my models, most of which are original designs.
 - Bathroom
   - Shower
     - [Shower Head Holder](bathroom/shower/showerHeadHolder)
+  - [Floor Levelling Wedge](bathroom/floorWedge)
 - [Capacitor Bank Housing](capacitorBankHousing)
 - Garden
   - Bees
