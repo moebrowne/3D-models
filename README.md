@@ -6,23 +6,23 @@ This is a collection of my models, most of which are original designs.
 
 - Bathroom
   - Shower
-    - Shower Head Holder
-- Capacitor Bank Housing
+    - [Shower Head Holder](bathroom/shower/showerHeadHolder)
+- [Capacitor Bank Housing](capacitorBankHousing)
 - Garden
   - Bees
-    - Modular Entrance Block [WIP]
-  - Wolf Tool Release Button
-- Giger Counter Housing
+    - [Modular Entrance Block](garden/bees/modularEntranceBlock) [WIP]
+  - [Wolf Tool Release Button](garden/wolfToolReleaseButton) [WIP]
+- [Giger Counter Housing](gigerCounter)
 - Kitchen
-  - Coffee Machine Lid
-  - Cooling Rack Foot
+  - [Coffee Machine Lid](kitchen/coffeeMachineLid)
+  - [Cooling Rack Foot](kitchen/coolingRackFoot)
   - Fridge
-    - Door Bar Bracket
-  - Masala Tin
+    - [Door Bar Bracket](kitchen/fridge/doorBarBracket)
+  - [Masala Tin](kitchen/masalaTin)
 - RC
   - FT Arrow
-    - Battery Mount [WIP]
-  - Micro Drone
-  - Moskito
+    - [Battery Mount](RC/FTArrow/batteryMount) [WIP]
+  - [Micro Drone](RC/microDrone)
+  - [Moskito](RC/moskito)
 - Workshop
-  - Hex Key Holder [REMIX]
+  - [Hex Key Holder](workshop/hexKeyHolder) [REMIX]
