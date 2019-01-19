@@ -14,7 +14,7 @@ module body() {
     difference() {
         minkowski() {
             linear_extrude(height=5) {
-                circle(d=OD+3-roundD);
+                circle(d=OD+1.5-roundD);
             }
             sphere(d=roundD);
         }
