@@ -12,6 +12,7 @@ This is a collection of my models, most of which are original designs.
 - Garden
   - Bees
     - [Modular Entrance Block](garden/bees/modularEntranceBlock) [WIP]
+    - [Frame Lug Spacers](garden/bees/frameLugs)
   - [Wolf Tool Release Button](garden/wolfToolReleaseButton) [WIP]
 - [Giger Counter Housing](gigerCounter)
 - Kitchen
