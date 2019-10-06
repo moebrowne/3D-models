@@ -1,9 +1,9 @@
 $fn=80;
 length=60;
 width=20;
-height=30;
+height=33;
 
-boltDiameter=8;
+boltDiameter=9;
 
 module boltHoles() {
     module boltHole() {
