@@ -26,5 +26,7 @@ This is a collection of my models, most of which are original designs.
     - [Battery Mount](RC/FTArrow/batteryMount) [WIP]
   - [Micro Drone](RC/microDrone)
   - [Moskito](RC/moskito)
+- PC
+  - [Monitor Stand](PC/MonitorStand)
 - Workshop
   - [Hex Key Holder](workshop/hexKeyHolder) [REMIX]
