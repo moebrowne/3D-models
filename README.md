@@ -14,7 +14,9 @@ This is a collection of my models, most of which are original designs.
     - [Modular Entrance Block](garden/bees/modularEntranceBlock) [WIP]
     - [Frame Lug Spacers](garden/bees/frameLugs)
   - [Wolf Tool Release Button](garden/wolfToolReleaseButton) [WIP]
-  - [Water Butt Down Pipe Interceptor](garden/waterButt)
+  - Watter Butt
+    - [Down Pipe Interceptor](garden/waterButt/interceptor)
+    - [Angled Coupler](garden/waterButt/angledCoupler)
 - [Giger Counter Housing](gigerCounter)
 - Kitchen
   - [Coffee Machine Lid](kitchen/coffeeMachineLid)
